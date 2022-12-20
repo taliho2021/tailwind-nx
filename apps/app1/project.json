@@ -38,7 +38,6 @@
               "with": "apps/app1/src/environments/environment.prod.ts"
             }
           ],
-
           "outputHashing": "all"
         },
         "development": {

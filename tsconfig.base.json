@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@tailwind-nx/lib3": ["libs/lib3/src/index.ts"],
       "@tailwind-nx/lib1": ["libs/lib1/src/index.ts"],
       "@tailwind-nx/lib2": ["libs/lib2/src/index.ts"]
     }
